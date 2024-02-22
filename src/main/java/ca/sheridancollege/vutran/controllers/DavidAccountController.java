@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ca.sheridancollege.vutran.AccountRepo;
 import ca.sheridancollege.vutran.beans.Account;
+import ca.sheridancollege.vutran.repo.AccountRepo;
 import lombok.AllArgsConstructor;
 
 @RestController

@@ -1,4 +1,4 @@
-package ca.sheridancollege.vutran;
+package ca.sheridancollege.vutran.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
